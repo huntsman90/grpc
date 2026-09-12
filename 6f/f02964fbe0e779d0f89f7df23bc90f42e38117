@@ -1,0 +1,21 @@
+test/core/load_balancing/outlier_detection_test.cc
+  s_6cd0909ec38c28::t_924d0871ad59f1 194
+  s_6cd0909ec38c28::t_4fbb38998a13c5 167,169,178,180,188,190,193
+  s_6cd0909ec38c28::t_adc2fe2691fec4 176-177,179,185-187,189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6ff02964fbe0e779d0f89f7df23bc90f42e38117",
+  "prompts": {},
+  "sessions": {
+    "s_6cd0909ec38c28": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ef26bab8-72d8-4c3e-a8ba-14f5cd56550c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": null
+    }
+  }
+}
