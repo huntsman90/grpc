@@ -1,0 +1,28 @@
+test/core/load_balancing/outlier_detection_test.cc
+  s_6cd0909ec38c28::t_8e622fb4d80822 604-605
+  s_6cd0909ec38c28::t_f33c324b87e261 719-721
+  s_6cd0909ec38c28::t_05fbc5e8b00ecf 564-565
+test/cpp/end2end/xds/xds_outlier_detection_end2end_test.cc
+  s_6cd0909ec38c28::t_1f909ae33a75a7 1237
+src/core/load_balancing/outlier_detection/outlier_detection.cc
+  s_6cd0909ec38c28::t_d8c16fc4cb498b 622,626
+src/core/load_balancing/outlier_detection/outlier_detection_metrics.h
+  s_6cd0909ec38c28::t_0475c28dc1c149 32-34
+  s_6cd0909ec38c28::t_de55b496cbaaca 47-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "244364bb237c1bb2d3a70299db373b135576622b",
+  "prompts": {},
+  "sessions": {
+    "s_6cd0909ec38c28": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ef26bab8-72d8-4c3e-a8ba-14f5cd56550c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Sai Teja Duthuluri <dsaiteja1908@gmail.com>"
+    }
+  }
+}
