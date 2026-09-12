@@ -1,0 +1,22 @@
+test/core/load_balancing/outlier_detection_test.cc
+  s_6cd0909ec38c28::t_4fbb38998a13c5 171,173,179,181,185,187,190,192,198,200,203
+  s_6cd0909ec38c28::t_adc2fe2691fec4 180,183-184,186,191,195-197,199
+  s_6cd0909ec38c28::t_38d9e4570248c9 541-543
+  s_6cd0909ec38c28::t_924d0871ad59f1 204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "23cb07d7c0739296f571ef31ed3ee252f459870b",
+  "prompts": {},
+  "sessions": {
+    "s_6cd0909ec38c28": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ef26bab8-72d8-4c3e-a8ba-14f5cd56550c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Sai Teja Duthuluri <dsaiteja1908@gmail.com>"
+    }
+  }
+}
