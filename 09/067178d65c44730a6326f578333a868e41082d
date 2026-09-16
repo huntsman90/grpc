@@ -1,0 +1,19 @@
+test/core/load_balancing/outlier_detection_test.cc
+  s_6cd0909ec38c28::t_69694fddbd9690 176-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "09067178d65c44730a6326f578333a868e41082d",
+  "prompts": {},
+  "sessions": {
+    "s_6cd0909ec38c28": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ef26bab8-72d8-4c3e-a8ba-14f5cd56550c",
+        "model": "unknown"
+      },
+      "human_author": "Sai Teja Duthuluri <dsaiteja1908@gmail.com>"
+    }
+  }
+}
